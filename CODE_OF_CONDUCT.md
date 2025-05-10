@@ -1,51 +1,49 @@
-# YimMenu Code of Conduct
+# YimMenu Davranış Kuralları
 
-## Our Pledge
+## Sözümüz
 
-In the interest of fostering an open and welcoming environment, we as contributors pledge to make participation in our community a harassment-free experience for everyone, regardless of age, ethnicity, programming experience, race, gender and sexual identity, etc. As a rule of thumb, any comment that isn't relevant to the menu or the contributions at hand is prohibited
+Açık ve davetkar bir ortamı teşvik etmek amacıyla, katkıda bulunanlar olarak, topluluğumuza katılımı yaş, etnik köken, programlama deneyimi, ırk, cinsiyet ve cinsel kimlik vb. Ne olursa olsun herkes için tacizsiz bir deneyim haline getirmeyi taahhüt ediyoruz. Genel bir kural olarak, menü veya eldeki katkılarla ilgili olmayan herhangi bir yorum yasaktır.
+## Standartlarımız
 
-## Our Standards
+Olumlu bir ortam yaratmaya katkıda bulunan davranış örnekleri şunları içerir:
 
-Examples of behavior that contributes to creating a positive environment include:
+* Herkese saygı ve samimiyetle davranmak
+* Yeni katkıda bulunanları karşılama
+* Farklı bakış açılarına saygılı olmak
+* Proje için en iyi olana odaklanmak
 
-* Treating everyone with respect and cordiality
-* Welcoming new contributors
-* Being respectful of differing viewpoints
-* Focusing on what is best for the project
-
-Examples of unacceptable behavior by participants include:
+Katılımcılar tarafından kabul edilemez davranış örnekleri şunları içerir:
 
 * Trolling
-* Talking about politics (or using political imagery, including images of Pepe and Wojaks)
-* Racial slurs
-* Using avatars that show apparent affiliations to extremist organizations
-* Harassment
+* Politika hakkında konuşmak (veya Pepe ve Wojaks'ın görüntüleri de dahil olmak üzere politik görüntüleri kullanmak)
+* Irksal bulamaçlar
+* Aşırılıkçı örgütlere belirgin bağlantılar gösteren avatarları kullanma
+* taciz
 * Doxxing
-* Opening pull requests containing leaked or otherwise copyrighted code
-* Promoting unrelated personal projects
-* Attempting to recruit contributors
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Sızan veya telif hakkıyla korunan kod içeren çekme isteklerini açma
+* İlgisiz kişisel projelerin teşvik edilmesi
+* Katkıda bulunanları işe almaya teşebbüs etmek
+* Profesyonel bir ortamda makul olarak uygunsuz sayılabilecek diğer davranışlar
 
-## Our Responsibilities
+## Sorumluluklarımız
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Proje sahipleri kabul edilebilir davranış standartlarının açıklığa kavuşturulmasından sorumludur ve kabul edilemez davranış örneklerine yanıt olarak uygun ve adil düzeltici önlemler almaları beklenmektedir.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently *any* contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Proje sahipleri, bu Davranış Kurallarına uygun olmayan yorumları, taahhütleri, kodları, wiki düzenlemelerini, sorunları ve diğer katkıları kaldırma, düzenleme veya reddetme veya geçici veya kalıcı olarak yasaklama hakkına ve sorumluluğuna sahiptir. herhangi biri uygunsuz, tehdit edici, saldırgan veya zararlı gördükleri diğer davranışlara katkıda bulunur.
+## Kapsam
 
-## Scope
+Bu Davranış Kuralları, bu depo dahil tüm proje alanlarında ve [Matrix server](https://matrix.to/#/#yimmenu:matrix.org). Ancak davranış kuralları gerçek menü kod tabanı için geçerli değildir
 
-This Code of Conduct applies within all project spaces, including this repository and on the [Matrix server](https://matrix.to/#/#yimmenu:matrix.org). The code of conduct, however, does not apply to the actual menu codebase
+## icra
 
-## Enforcement
+Matrix odasında küfürlü, taciz edici veya başka türlü kabul edilemez davranış vakaları bildirilmelidir. Bu davranış kurallarını ihlal eden tüm yorumlar, sorunlar vb. Hızlı bir şekilde kaldırılacak ve projeye mesleki olarak katkıda bulunma niyetleri yoksa kişi engellenecektir.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior should be reported in the Matrix room. All comments, issues, etc. violating this code of conduct will be swiftly removed, and the person blocked if they have no intention to contribute collegially to the project
+## Neden Davranış Kuralları var?
 
-## Why Have a Code of Conduct?
+Ne yazık ki, zaten farkında olabileceğiniz gibi, oyun korsanlığı ve daha geniş oyun topluluğu [filled](https://kotaku.com/call-of-duty-has-banned-over-350-000-players-for-racism-1846975082) [with](https://www.unknowncheats.me/forum/images/smilies/black.png) [bigots](https://en.wikipedia.org/wiki/Gamergate_%28harassment_campaign%29), ve başka türlü [unsavory people](https://en.wikipedia.org/wiki//pol/) katkıda bulunanları uzaklaştırma ve anlamsız bir drivel ile gelişmeyi yavaşlatma eğilimi gösteren. Bu amaçla, bir davranış kuralına sahip olmak, bu kişilerin projede önemli bir bozulmaya neden olmadan önce hızla çıkarılmasını sağlar. Bu tamamen temel bir ahlaktır ve "uyandırma" ya da "liberal" ya da bazı insanların onu yorumlayabilecekleri hiçbir şeyle ilgisi yoktur. Örneğin, ırksal bulamaçları söyleyememenizin haklarınızın önemli bir ihlali olduğunu düşünüyorsanız, lütfen başka bir yere katkıda bulunmaktan çekinmeyin; sonuçta iyi bir şirkettesin
 
-Unfortunately, as you may already be aware, the game hacking and the wider gaming community is [filled](https://kotaku.com/call-of-duty-has-banned-over-350-000-players-for-racism-1846975082) [with](https://www.unknowncheats.me/forum/images/smilies/black.png) [bigots](https://en.wikipedia.org/wiki/Gamergate_%28harassment_campaign%29), and otherwise [unsavory people](https://en.wikipedia.org/wiki//pol/) who tend to drive away contributors and slow down development by engaging in pointless drivel. To this end, having a code of conduct ensures these people are quickly removed before they could cause significant disruption to the project. This is purely basic decency and has nothing to with being "woke" or "liberal" or whatever certain people may interpret it to be. If you feel that not being able to say racial slurs, for example, is a significant violation of your rights, then please feel free to contribute elsewhere; you're in good company, after all
+## ilişkilendirme
 
-## Attribution
+Bu Davranış Kuralları, [Contributor Covenant](https://www.contributor-covenant.org), sürüm 1.4, şu adresten ulaşılabilir: <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
-
-For answers to common questions about this code of conduct, see <https://www.contributor-covenant.org/faq>
+Bu davranış kuralları hakkında sık sorulan soruların cevapları için bkz. <https://www.contributor-covenant.org/faq>
